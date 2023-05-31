@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/findlogo-ocv/.vs
+/findlogo-ocv/matches.jpg
+/findlogo-ocv/debug.jpg
+/findlogo-ocv/x64
